@@ -1,1 +1,2 @@
  text has been modified
+text has been added to this file and then modified.
